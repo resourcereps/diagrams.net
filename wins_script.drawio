@@ -1,9 +1,131 @@
-<mxfile host="app.diagrams.net" modified="2024-04-18T23:23:29.673Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="24.2.5" etag="xQqC9uiIIhiW9trpKa7l" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-19T00:07:28.842Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="1OMgCk4C-hUaxbRfzmBm" version="24.2.5" type="github">
   <diagram name="Page-1" id="JBJc0INhoO-5KvknwVBm">
-    <mxGraphModel>
+    <mxGraphModel dx="1864" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="IDZSP4kKKY8JuZDuhJa7-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IDZSP4kKKY8JuZDuhJa7-1" target="IDZSP4kKKY8JuZDuhJa7-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IDZSP4kKKY8JuZDuhJa7-1" value="&lt;div&gt;Hey Franz, just checking in to see how your recent live listings are doing. How are the properties performing? What do the numbers look like?&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="40" y="100" width="350" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="IDZSP4kKKY8JuZDuhJa7-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IDZSP4kKKY8JuZDuhJa7-2" target="IDZSP4kKKY8JuZDuhJa7-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IDZSP4kKKY8JuZDuhJa7-9" value="Franz" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IDZSP4kKKY8JuZDuhJa7-5">
+          <mxGeometry x="0.034" y="-6" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IDZSP4kKKY8JuZDuhJa7-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IDZSP4kKKY8JuZDuhJa7-2" target="IDZSP4kKKY8JuZDuhJa7-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IDZSP4kKKY8JuZDuhJa7-12" value="Jeff" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IDZSP4kKKY8JuZDuhJa7-11">
+          <mxGeometry x="-0.186" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IDZSP4kKKY8JuZDuhJa7-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Wins Script&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="350" y="10" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IDZSP4kKKY8JuZDuhJa7-6" value="&lt;div&gt;&lt;div&gt;Hey Franz!&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;I&#39;m reaching out to our top students and looking to do a breakdown based on this format:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;https://influetize.notion.site/Airbnb-Deepdives-f76a255206c443f081106c28d7f74544&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;It&#39;ll be pretty in-depth about your business and will take some prep on your part. You can think of it like you&#39;re hosting a class on your business and I&#39;ll be there to host and moderate&lt;/div&gt;&lt;div&gt;.&lt;/div&gt;&lt;div&gt;If you are willing to do it, we can pay $100 for the interview, it&#39;ll take about an hour. If you&#39;re interested let me know and we can schedule a time to meet.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Thanks!&lt;/div&gt;&lt;div&gt;-Preston&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="350" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="IDZSP4kKKY8JuZDuhJa7-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IDZSP4kKKY8JuZDuhJa7-10" target="IDZSP4kKKY8JuZDuhJa7-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IDZSP4kKKY8JuZDuhJa7-10" value="&lt;div&gt;hey Jeff - hope you&#39;re well man! I&#39;m reaching out to our top students and looking to do a breakdown based on this format:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;https://influetize.notion.site/Airbnb-Deepdives-f76a255206c443f081106c28d7f74544&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;It&#39;ll be pretty in-depth about your business and will take some prep on your part. You can think of it like you&#39;re hosting a class on your business and I&#39;ll be there to host and moderate.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;If you are willing to do it, we can pay $100 for the interview, it&#39;ll take about an hour. If you&#39;re interested let me know and we can schedule a time to meet.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Thanks!&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;fillStyle=solid;gradientColor=none;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="470" y="140" width="350" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="IDZSP4kKKY8JuZDuhJa7-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IDZSP4kKKY8JuZDuhJa7-13" target="IDZSP4kKKY8JuZDuhJa7-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IDZSP4kKKY8JuZDuhJa7-13" value="&lt;div&gt;yeah for sure. We can just find some time to chat afterwards. can you send me your email and we can coordinate? Love the new listing! Will announce to the group&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="470" y="520" width="350" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IDZSP4kKKY8JuZDuhJa7-15" value="&lt;div&gt;&lt;div&gt;love to see it! Just sent the email&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="470" y="690" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IDZSP4kKKY8JuZDuhJa7-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.466;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IDZSP4kKKY8JuZDuhJa7-18" target="IDZSP4kKKY8JuZDuhJa7-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="85" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IDZSP4kKKY8JuZDuhJa7-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IDZSP4kKKY8JuZDuhJa7-18" target="IDZSP4kKKY8JuZDuhJa7-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IDZSP4kKKY8JuZDuhJa7-18" value="&lt;div&gt;&lt;div&gt;Hey Kirk, just checking in to know how your latest listing is holding up. How&#39;s the property performing? What do the numbers look like?&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="250" y="810" width="350" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IDZSP4kKKY8JuZDuhJa7-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.543;entryY=-0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IDZSP4kKKY8JuZDuhJa7-2" target="IDZSP4kKKY8JuZDuhJa7-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="630" />
+              <mxPoint x="440" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IDZSP4kKKY8JuZDuhJa7-20" value="Kirk" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IDZSP4kKKY8JuZDuhJa7-19">
+          <mxGeometry x="-0.4298" y="1" relative="1" as="geometry">
+            <mxPoint y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IDZSP4kKKY8JuZDuhJa7-21" value="Kirk" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IDZSP4kKKY8JuZDuhJa7-19">
+          <mxGeometry x="0.4001" relative="1" as="geometry">
+            <mxPoint y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IDZSP4kKKY8JuZDuhJa7-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IDZSP4kKKY8JuZDuhJa7-26" target="IDZSP4kKKY8JuZDuhJa7-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IDZSP4kKKY8JuZDuhJa7-26" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;Whoa, that&#39;s impressive! Love to know that&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="680" y="810" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IDZSP4kKKY8JuZDuhJa7-28" value="Huge Congratulations Kirk!" style="whiteSpace=wrap;html=1;align=left;fillColor=none;gradientColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="990" y="800" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IDZSP4kKKY8JuZDuhJa7-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IDZSP4kKKY8JuZDuhJa7-31" target="IDZSP4kKKY8JuZDuhJa7-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IDZSP4kKKY8JuZDuhJa7-31" value="&lt;div&gt;&lt;div&gt;Hey Kirk!&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;I&#39;m reaching out to our top students and looking to do a breakdown based on this format:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;https://influetize.notion.site/Airbnb-Deepdives-f76a255206c443f081106c28d7f74544&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;It&#39;ll be pretty in-depth about your business and will take some prep on your part. You can think of it like you&#39;re hosting a class on your business and I&#39;ll be there to host and moderate&lt;/div&gt;&lt;div&gt;.&lt;/div&gt;&lt;div&gt;If you are willing to do it, we can pay $100 for the interview, it&#39;ll take about an hour. If you&#39;re interested let me know and we can schedule a time to meet.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Thanks!&lt;/div&gt;&lt;div&gt;-Preston&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="930" width="350" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="IDZSP4kKKY8JuZDuhJa7-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="IDZSP4kKKY8JuZDuhJa7-32" target="IDZSP4kKKY8JuZDuhJa7-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IDZSP4kKKY8JuZDuhJa7-42" value="After reply&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IDZSP4kKKY8JuZDuhJa7-35">
+          <mxGeometry x="0.19" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IDZSP4kKKY8JuZDuhJa7-32" value="Hi Kirk, wanted to follow up with you on my previous message. Let me know, thanks." style="whiteSpace=wrap;html=1;align=left;fillColor=none;gradientColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="1050" width="335" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IDZSP4kKKY8JuZDuhJa7-40" value="&lt;div&gt;It&#39;s okay! No worrries&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="540" y="970" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IDZSP4kKKY8JuZDuhJa7-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="IDZSP4kKKY8JuZDuhJa7-18" target="IDZSP4kKKY8JuZDuhJa7-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-230" y="1390" as="targetPoint" />
+            <mxPoint x="338" y="810" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IDZSP4kKKY8JuZDuhJa7-46" value="Issac Eck, same script, just the last follow up&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-15;" vertex="1" connectable="0" parent="IDZSP4kKKY8JuZDuhJa7-45">
+          <mxGeometry x="0.61" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" y="-206" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IDZSP4kKKY8JuZDuhJa7-47" value="Issac Eck, same script, just the last follow up&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-15;" vertex="1" connectable="0" parent="IDZSP4kKKY8JuZDuhJa7-45">
+          <mxGeometry x="0.61" y="-1" relative="1" as="geometry">
+            <mxPoint x="-6" y="84" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IDZSP4kKKY8JuZDuhJa7-44" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;We&#39;re trying to get these done in the next couple of weeks, just let me know. Thanks!&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=none;gradientColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="1380" width="335" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
