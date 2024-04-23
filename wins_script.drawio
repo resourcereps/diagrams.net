@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-22T23:41:12.859Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="JFlAumxtiDQtDIiTO7oC" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-23T00:00:30.361Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="e8I9VOi9UG0uYjkyon4-" version="24.2.7" type="github">
   <diagram name="Page-1" id="JBJc0INhoO-5KvknwVBm">
     <mxGraphModel dx="2652" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -6,6 +6,21 @@
         <mxCell id="1" parent="0" />
         <mxCell id="IDZSP4kKKY8JuZDuhJa7-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IDZSP4kKKY8JuZDuhJa7-1" target="IDZSP4kKKY8JuZDuhJa7-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0dDVAKqjQT8uIGWw5udy-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.464;entryY=0.032;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IDZSP4kKKY8JuZDuhJa7-1" target="0dDVAKqjQT8uIGWw5udy-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-560" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0dDVAKqjQT8uIGWw5udy-5" value="Greta Ma" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0dDVAKqjQT8uIGWw5udy-3">
+          <mxGeometry x="0.1558" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0dDVAKqjQT8uIGWw5udy-6" value="Different version of 1st text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0dDVAKqjQT8uIGWw5udy-3">
+          <mxGeometry x="0.8567" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="IDZSP4kKKY8JuZDuhJa7-1" value="&lt;div&gt;Hey Franz, just checking in to see how your recent live listings are doing. How are the properties performing? What do the numbers look like?&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="40" y="100" width="350" height="100" as="geometry" />
@@ -140,6 +155,9 @@
         </mxCell>
         <mxCell id="IDZSP4kKKY8JuZDuhJa7-44" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;We&#39;re trying to get these done in the next couple of weeks, just let me know. Thanks!&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=none;gradientColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-420" y="1380" width="335" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0dDVAKqjQT8uIGWw5udy-4" value="&lt;div&gt;&lt;div&gt;Hey Greta, just checking in to see how your recent live listing is doing. How&#39;s the property performing? What do the numbers look like?&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-720" y="250" width="350" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
