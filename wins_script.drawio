@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-23T00:00:30.361Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="e8I9VOi9UG0uYjkyon4-" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-23T00:04:15.380Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="-7j8DiRYB2AEvshQ_psa" version="24.2.7" type="github">
   <diagram name="Page-1" id="JBJc0INhoO-5KvknwVBm">
     <mxGraphModel dx="2652" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -157,7 +157,7 @@
           <mxGeometry x="-420" y="1380" width="335" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0dDVAKqjQT8uIGWw5udy-4" value="&lt;div&gt;&lt;div&gt;Hey Greta, just checking in to see how your recent live listing is doing. How&#39;s the property performing? What do the numbers look like?&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-720" y="250" width="350" height="100" as="geometry" />
+          <mxGeometry x="-720" y="250" width="360" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
